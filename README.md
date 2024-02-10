@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise. I'm particularly excited about diving into Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills.
+A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise.  I'm particularly excited learning about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various components/concepts of intelligent systems.
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm based in Laguna, Philippines
+* 🚀  Student Tech Enthusiast
+* 🧠  I'm  currently learning about Machine Learning, Natural Language Processing, and Artificial Intelligence
 * ✉️  You can contact me at [maxyneignacio@gmail.com](mailto:maxyneignacio@gmail.com)
-* 🧠  I'm learning Machine Learning, Natural Language Processing, and Artificial Intelligence
 
 ### Skills
 
