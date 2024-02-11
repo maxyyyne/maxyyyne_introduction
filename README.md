@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxyne
+Hiii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxyne
 ====================================================================================================================================
 
 Computer Science Student
 ------------------------
 
-A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise.  I'm particularly excited to learn about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various components/concepts of intelligent systems.
+A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise.  I'm particularly interested to learn about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various components/concepts of intelligent systems.
 
 * 🌍  I'm based in Laguna, Philippines
 * 🚀  Student Tech Enthusiast
