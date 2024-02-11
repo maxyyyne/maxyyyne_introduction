@@ -7,7 +7,7 @@ Computer Science Student
 A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise.  I'm particularly interested to learn about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various components/concepts of intelligent systems.
 
 * 🌍  I'm based in Laguna, Philippines
-* 🚀  Student Tech Enthusiast
+* 🚀   Student Tech Enthusiast
 * 🧠  I'm  currently learning about Machine Learning, Natural Language Processing, and Artificial Intelligence
 * ✉️  You can contact me at [maxyneignacio@gmail.com](mailto:maxyneignacio@gmail.com)
 
